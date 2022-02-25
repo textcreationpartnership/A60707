@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sober and seasonable commemoration of the thirtieth day of January, 1648 being the day of the martyrdom of King Charles the first, and fit to be considered upon the anniversary fast for the same / by the same hand as wrote Vox populi, or, England's lamentation.</title>
+            <author>Same hand as wrote Vox populi.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60707</idno>
+            <idno type="STC">Wing S4400A</idno>
+            <idno type="STC">ESTC R13344</idno>
+            <idno type="EEBO-CITATION">11914776</idno>
+            <idno type="OCLC">ocm 11914776</idno>
+            <idno type="VID">50908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sober and seasonable commemoration of the thirtieth day of January, 1648 being the day of the martyrdom of King Charles the first, and fit to be considered upon the anniversary fast for the same / by the same hand as wrote Vox populi, or, England's lamentation.</title>
+                  <author>Same hand as wrote Vox populi.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Benskin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50908:1" rendition="simple:additions"/>
+            <head>A Sober and Seaſonable Commemoration OF The Thirtieth Day of <hi>January,</hi> 1648.</head>
+            <head type="sub">Being the Day of the Martyrdom of <hi>King</hi> CHARLES <hi>the firſt,</hi> And fit to be Conſidered upon the <hi>Anniverſary</hi> FAST for the ſame.</head>
+            <byline>
+               <hi>By the ſame Hand as Wrote</hi> Vox Populi; <hi>Or, ENGLANDS</hi> Lamentation.</byline>
+            <p>IF we look back, and ſeriouſly conſider the many Calamities of our late Wars, and Retroſpect into the Cauſes both Evident and Remote, which brought that Deluge of Miſery upon three (then almoſt Ruined) King<g ref="char:EOLhyphen"/>doms, and the Bloody Sequel of all thoſe trou<g ref="char:EOLhyphen"/>bles, the Beheading of that Vertuous and pious King <hi>Charles</hi> the Firſt, in the Memory of which we yearly keep a Faſt for the ſame, that God will be pleaſed never more to viſit us in h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Wrath, nor give us the like Dreadful occaſion of Sackcloth and Aſhes: I ſay, if we did moſt ſeriouſly conſider, as we ought, from the great<g ref="char:EOLhyphen"/>eſt to the leaſt, we ſhould not tread the ſame paths leading to Deſtruction, nor run in the ways of Iniquities.</p>
+            <p>They who yet well remember the Tranſacti<g ref="char:EOLhyphen"/>ons of thoſe Times, before we were rent and torn with Civil Wars, and now ſeriouſly weigh in the Ballance of Judgement, the poſture and Actions of Affairs at this preſent, may ſee too much Similitude, if not to fear as bad and fatal Conſequences. It would therefore be well for every man at this day, to conſider and ſay with himſelf, if <hi>I have committed Iniquity, I will com<g ref="char:EOLhyphen"/>mit it no more.</hi> It will be ſeaſonable now as much as ever, for King and People, both great and ſmall, to Commemorate and think upon the ſadneſs of that day, when all faces look'd pale, and when the Land mourn'd, when they beheld with bleeding hearts, the ſad Effects of Diviſions, War, and Rebellion, falling upon the head of their Soveraign, and Bondage and Slavery flung upon the necks of the people.</p>
+            <p>
+               <hi>Prorogative</hi> on the one ſide, and <hi>Priviledge</hi> on the other, firſt began, then <hi>Religion</hi> which ſhould be all peace, increas'd the Trouble: Factions were made, parties aſſembled, Coun<g ref="char:EOLhyphen"/>cels were taken, Cabals were formed, Fears were hightned, Jealouſies increas'd, Heart-burnings fomented, and at laſt War was raiſed, but the ſad and fatal Conſequence of all was, the violent Death of Sacred <hi>Majeſty,</hi> and for a time the Secluſion of <hi>Monarchy.</hi> And now how far we are running in the ſame paths, and treading the like <hi>Mazes,</hi> till we ſhall be loſt in a Labyrinth of Woe and Confuſion, every one ſees, who can remember, or read the Tanſ<g ref="char:EOLhyphen"/>actions of former times. Several of late have loudly cry'd out, <hi>How like is this to</hi> 41. and His Majeſties ears have been blown into, with the remembrances of the evil Actions of evil men, whereby fears and Jealouſies may juſtly be rai<g ref="char:EOLhyphen"/>ſed in his Royal Breaſt, againſt his good Sub<g ref="char:EOLhyphen"/>jects and have ſtill appreheſions of the fatal ef<g ref="char:EOLhyphen"/>fects of 48. But however like theſe beginnings ſeem to thoſe troubleſome times, there is yet this difference plainly appears, that now it is not <hi>Epiſcopacy</hi> and <hi>Presbitery</hi> that contend, but <hi>Proteſtantiſm</hi> and <hi>Popery:</hi> The Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is as much concerned as the <hi>Presbyters,</hi> and both now juſtly full of fears and appre<g ref="char:EOLhyphen"/>henſions, ſeek to ſecure their <hi>Religion,</hi> their <hi>Lives,</hi> and their <hi>Fortunes.</hi>
+            </p>
+            <p>But let us not puſh on too violently our E<g ref="char:EOLhyphen"/>vil Fate, which by Gods permiſſion, is like to ruſh upon us, for the Sins of the People: Let us I ſay, remember this Dreadful day, wherein <hi>Monarchy</hi> was laid in the Duſt, and the moſt pious and vertuous Prince that ever ſat on our Throne, brought as a Lamb to the ſlaughter: Think of this both King and People, and let this <hi>Anniverſary</hi> be effectually conſider'd, that it may put ſome ſtop to the Violences which ſeem to be preparing by ſeveral Factions. God hath given us a time of Peace and plenty, and every man hath ſat quietly under his Vine and his Figg-Tree; our Temples have been Crown'd, and good things have flowed in up<g ref="char:EOLhyphen"/>on us, our King hath been reſtored to us, and he hath received miraculous and ſtrange Deliverances, and Seated at laſt on the Throne of his Anceſtors; but what have we returned for ſuch Signal Mercies, may we not cry out with <hi>Daniel,</hi> and ſay, <hi>We have ſinned and have committed Iniquity, and have done Wickedly, and
+<pb facs="tcp:50908:2"/>have Rebelled, even by departing from thy Precepts, and from thy Judgements, O God. O Lord, to us belongs Confuſion of Faces, to our Kings, to our Princes, and to our Fathers, becauſe we have ſin<g ref="char:EOLhyphen"/>ned againſt thee.</hi>
+            </p>
+            <p>Let us I ſay, remember this Fatal Day, and the more like theſe Times look to thoſe pre<g ref="char:EOLhyphen"/>ceeding our late troubles, let us the more think of their fatal Effects, and let all men from the greateſt to the loweſt, from the Cedar to the Shrub, endeavour to reform themſelves, and pray God to avert his impending Judgements, for we doubt it was Sin that before brought on Judgement, and it is now our many Sins, and open Iniquites, that are like to call down Gods Wrath and Vengeance upon us, to be a ſcourge to this Nation, unleſs we ſeriouſly Repent, and turn from our evil ways: Otherwiſe, I fear we ſhall ſee the Propheſie of <hi>Jeremiah</hi> fulfilled up<g ref="char:EOLhyphen"/>on us: <hi>The Whirl-wind of the Lord is gone forth in Fury, even as a grievous Whirl-wind, it ſhall fall grievouſly upon the head of the Wicked: The Anger of the Lord ſhall not return, until he have Executed, and till he have performed the thoughts of his Heart.</hi>
+            </p>
+            <p>But we know, that <hi>God is Merciful and Gra<g ref="char:EOLhyphen"/>cious, long Suffering, and abundant in Goodneſs and Truth, keeping mercy for thouſands, forgiving Iniquity, and Tranſgreſſion, and Sin:</hi> There<g ref="char:EOLhyphen"/>fore, let us all I ſay, remember the ſad Effects of our late Diviſions, and from the higheſt to the loweſt, let us humble our ſelves before the Lord, that he may turn from us all thoſe Evils which now ſeem to threaten us, that we may have peace in our days. For as at the Preach<g ref="char:EOLhyphen"/>ing of <hi>Jonas,</hi> the <hi>Ninivites</hi> Repented, and mourned in Sack-cloth and Aſhes, whereby they pacified the Wrath of God, ſo who knows, how much our hearty Prayers and true Repen<g ref="char:EOLhyphen"/>tance, forſaking our evil ways, may prevail up<g ref="char:EOLhyphen"/>on the Almighty, to take pitty upon us, and pacifie his Wrath, and cauſe his Countenance to ſhine upon us. He <hi>turneth the hearts of Kings, as the Rivers of Waters,</hi> and he <hi>ſtoppeth the Rage of the Multitude:</hi> He Creates and deſtroys as he pleaſeth; <hi>By him Kings Reign,</hi> and <hi>by him we all Live, move, and have our being,</hi> and therefore, <hi>Bleſſed be the Name of the Lord.</hi>
+            </p>
+            <p>As the Thirtieth of <hi>January</hi> is my Text, ſo I would preſs it home at this time, on the hearts of all people, who ſeem to be full of Trouble and Anxiety. We need not run to prophane Hiſtories, which give us ſufficient Examples of the ſad miſeries and fatal Conſequences, of Breaches between King and people: and our own <hi>Chronicles</hi> furniſh us with ſad precidents, too like our times to be pointed at: All that read and conſider, may ſee the ſad Effects of deſire of <hi>Arbitrary Government,</hi> under the No<g ref="char:EOLhyphen"/>tion of <hi>Prerogative;</hi> and alſo <hi>Rebellion,</hi> under that of <hi>Priviledges</hi> &amp; <hi>Liberty of Conſcience,</hi> both being made the Stale of Evil men, to puſh on both King and people to ruine and deſtruction. But methinks the remembrance of this Fatal day, and the Condition of the ſlavery, Tyran<g ref="char:EOLhyphen"/>ny, and <hi>Arbitrary Government,</hi> this Nation and its two Siſters were brought to, ſhould make us afraid to run in the ſame ways, and take the ſame courſes. But let us conſult the Sacred Hiſtory; on the one hand what got <hi>Abſalon</hi> and his evil Counſellour <hi>Architophel,</hi> by their Rebellion, but loſs of Life? and what became of <hi>Sheba,</hi> who blew the Trumpet of Rebellion in <hi>Iſrael?</hi> on the other ſide, what was the Se<g ref="char:EOLhyphen"/>quel of the raſh and evil Counſellors of <hi>Rehobo<g ref="char:EOLhyphen"/>am,</hi> who ſought to oppreſs the people with <hi>Arbitrary Government,</hi> but the loſs of Ten Tribes, and the greateſt part of his Kingdom for ever? It is ſaid, that <hi>David</hi> upon the Re<g ref="char:EOLhyphen"/>bellion of <hi>Sheba</hi> the Son <hi>Bichri,</hi> went no more into his Concubines, but ſhut them up to the day of their Death, 2 <hi>Sam. Chap.</hi> 20. <hi>David</hi> was a pious Prince, and did as he ſaid; <hi>I will call on the Lord, who is worthy to be praiſed, ſo ſhall I be ſaved from mine Enemies; for he ſpoke it out of experience: Thou haſt delivered me from the Strivings of my people.</hi>
+            </p>
+            <p>Let every one therefore at this time, ſtrive to reform their Lives, leave their Evil courſes, and to humble themſelves before the Lord, that the Blood of this day may be ap<g ref="char:EOLhyphen"/>peaſed, and that it may not leave ſuch a Guilt upon the Nation, as may yet require the Ven<g ref="char:EOLhyphen"/>geance of the Almighty to wipe it off, by per<g ref="char:EOLhyphen"/>mitting us to act over the like Tragedies, and to run into the like Civil Wars and Rebellion, and ſuffer our former Calamities, tho' our ſins and Iniquities may have deſerv'd it; for it is ſin that bringeth War and Deſtruction upon a Land, for God ſays, <hi>Levit.</hi> 26. <hi>If ye will not hearken unto me, but walk contrary unto me, I will bring a Sword upon you, and I will ſend the Peſtilence among you, and you ſhall be delivered into the Hands of your Enemies.</hi> But I hope the Remembrance of the Evil of this day, will ſtir us up to Repentance, and that repentance will prevent Judgements, which ſeem to threaten us, both by Signs in the Heavens, and on the earth. Follow therefore the Counſel of S. <hi>Peter, Act.</hi> 3.19. <hi>Repent ye therefore and be Converted, that your Sins may be blotted out, and the times of Refreſhing ſhall come from the preſence of the Lord.</hi> And then let us wait to ſee the Lords Salvati<g ref="char:EOLhyphen"/>on; Let us put our chiefeſt truſt in God, and in the next place, let us with patience, expect the healing of our Breaches, by the Wiſdom and Prudence of the approaching <hi>Parliament,</hi> which all Loyal hearts deſire, may juſtly enjoy the Title of an Healing <hi>Parliament.</hi>
+            </p>
+            <epigraph>
+               <q>Deceit is in the Heart of them that imagine Evil; but to the Counſellors of Peace is Joy,</q>
+               <bibl>Prov. 12.</bibl>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Benskin,</hi> in <hi>Greens's-Rents</hi> near <hi>Fleet-Bridge.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
